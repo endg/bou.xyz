@@ -5,8 +5,8 @@ keywords: ["备案", "个人"]
 date: 2019-12-12T13:16:48-08:00
 lastmod: 2019-12-12T13:16:48-08:00
 draft: false
-tags: ["website"]
-categories: ["hugo"]
+tags: ["hugo"]
+categories: ["computer"]
 author: "dan"
 slug: 'website_note'
 
@@ -27,7 +27,7 @@ slug: 'website_note'
 
 2.网站内容：需符合个人性质，不要有单位、团体内容，不能涉及论坛、经营性等前置审批内容，不能有新闻资讯，不能有联盟广告。
 
-3.[控制页面内容，不要出现违法关键词](/cn/website_content)；
+3.[控制页面内容，不要出现违法关键词](/zh-cn/post/website_content/)；
 
 4.已备案成功网站下方需悬挂备案号并链接到工信部网站 [http://www.beian.miit.gov.cn](http://www.beian.miit.gov.cn/)及版权所有
 

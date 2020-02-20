@@ -1,8 +1,23 @@
 ---
 title: "版权声明"
-slug: "copyright"
-keywords: 
-  - 版权
+description: '有关版权的一些事情'
+keywords: ["copyright", "版权声明"]
+date: 2020-02-18T16:01:23+08:00
+lastmod: 2020-02-18T16:01:23+08:00
+draft: false
+tags: ["hugo"]
+categories: ["computer"]
+author: "dan"
+slug: 'copyright'
+# You can also close(false) or open(true) something for this content.
+# P.S. comment can only be closed
+# comment: false
+# toc: false
+
+# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
+#contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="noopener" target="_blank">See origin</a>'
+reward: false
+# mathjax: true
 ---
 
 本站([www.964813.xyz](http://www.964813.xyz))，全部内容禁止商业使用。除非注明，本站文章均为原创，转载请以链接形式标明本文地址。 

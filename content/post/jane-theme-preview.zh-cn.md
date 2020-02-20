@@ -16,7 +16,7 @@ weight: 1
 
 # You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
 contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="noopener" target="_blank">See origin</a>'
-# reward: false
+reward: false
 mathjax: true
 ---
 
