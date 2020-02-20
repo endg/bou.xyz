@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "/"
 title = "小登纪"
 enableRobotsTXT = true
 enableEmoji = true
@@ -160,7 +160,7 @@ defaultContentLanguage = "en"           # Default language to use
 
   [params.utteranc]         # utteranc is a comment system based on GitHub issues. see https://utteranc.es
     enable = false
-    repo = "xianmin/comments-for-hugo-theme-jane"    # The repo to store comments
+    repo = "endg/bou.xyz"    # The repo to store comments
     issueTerm = "pathname"
 
   [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
@@ -190,7 +190,7 @@ defaultContentLanguage = "en"           # Default language to use
     title = "Search"
 
   [params.reward]                                         # 文章打赏
-    enable = false
+    enable = true
     wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
