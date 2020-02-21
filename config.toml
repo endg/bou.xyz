@@ -191,8 +191,8 @@ defaultContentLanguage = "en"           # Default language to use
 
   [params.reward]                                         # 文章打赏
     enable = true
-    wechat = "/path/to/your/wechat-qr-code.png"           # 微信二维码
-    alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
+    wechat = "/images/wechat-qr-code.webp"           # 微信二维码
+    alipay = "/images/alipay-qr-code.webp"           # 支付宝二维码
 
   [params.counter.busuanzi]  # a Chinese visitor counter  # 不蒜子计数器
     enable = true
