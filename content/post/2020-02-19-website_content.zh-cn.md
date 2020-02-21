@@ -6,7 +6,7 @@ date: 2020-02-19T13:16:48-08:00
 lastmod: 2020-02-19T13:16:48-08:00
 draft: false
 tags: ["hugo"]
-categories: ["computer"]
+categories: ["Web"]
 author: "dan"
 slug: 'website_content'
 

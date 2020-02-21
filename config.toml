@@ -9,7 +9,7 @@ paginate = 5              # Number of articles displayed on the homepage # 首�
 rssLimit = 100             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = " 小登纪 | <a href=http://www.beian.miit.gov.cn/ target=_blank>津ICP备19011517号-1</a> | <img src=/images/police.webp><a href=http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12011402001025 target=_blank>津公网安备 12011402001025号</a>"            # default: author.name ↓        # 默认为下面配置的author.name ↓
+copyright = " 小登纪 | <a class=theme-link href=https://github.com/xianmin/hugo-theme-jane>Jane</a> | <a href=http://www.964813.xyz/sitemap.xml>网站地图</a> | <a href=mailto:lmg_bit@163.com>给我邮件</a> | <a href=index.xml>RSS订阅</a>"            # default: author.name ↓        # 默认为下面配置的author.name ↓
 enableGitInfo = true      # use git commit log to generate lastmod record # 可根据 Git 中的提交生成最近更新记录。
 # uglyURLs = true         # more info: https://gohugo.io/content-management/urls/#ugly-urls
 
@@ -145,7 +145,7 @@ defaultContentLanguage = "en"           # Default language to use
   # forkMeOnGithub = "https://github.com/xianmin/hugo-theme-jane"
 
   # add custom info on the footer.   # 添加备案信息
-customFooter = " | <a href=http://www.964913.xyz/sitemap.xml>网站地图</a> | <a href=http://www.beian.miit.gov.cn/ target=_blank>津ICP备19011517号-1</a> | <img src=/images/police.webp><a href=http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12011402001025 target=_blank>津公网安备 12011402001025号</a>"
+customFooter = " | <a href=http://www.beian.miit.gov.cn/ target=_blank>津ICP备19011517号-1</a> | <img src=/images/police.webp><a href=http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12011402001025 target=_blank>津公网安备 12011402001025号</a>"
 
   [params.publicCDN]        # load these files from public cdn                          # 启用公共CDN，需自行定义
     enable = false
