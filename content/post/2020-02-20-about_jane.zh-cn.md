@@ -29,6 +29,7 @@ slug: 'about_jane'
 2.gallery识别不出来webp格式的图片，因此图片文件夹里webp格式的要一张一张添加到MD里
 
 3. [Jane Theme Preview](/post/jane-theme-preview/)这个文档怎么总在第一个？
+4. SCSS文件怎么改？因为想要修改CSS样式
 
 ## hugo todo
 
