@@ -24,9 +24,11 @@ slug: 'about_jane'
 
 有关jane主题的一些使用事项：
 
-1.config里启用不蒜子后，最下面数值很大，不是从零开始的。
+1.config里启用不蒜子后，最下面数值很大，不是从零开始的。（后记：生成public后传到虚拟主机就可以显示正常了）
 
 2.gallery识别不出来webp格式的图片，因此图片文件夹里webp格式的要一张一张添加到MD里
+
+3. [Jane Theme Preview](/post/jane-theme-preview/)这个文档怎么总在第一个？
 
 ## hugo todo
 
