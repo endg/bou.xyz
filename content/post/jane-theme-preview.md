@@ -3,8 +3,8 @@ title: "Jane Theme Preview"
 date: 2018-01-01T16:01:23+08:00
 lastmod: 2018-03-07T16:01:23+08:00
 draft: false
-tags: ["preview", "shortcodes"]
-categories: ["docs", "shortcodes", "index"]
+tags: ["hugo",]
+categories: ["Web", "index"]
 author: "Typora"
 
 
@@ -20,7 +20,7 @@ mathjax: true
 
 menu:
   main:
-    parent: "docs"
+    parent: "Docs"
     weight: 1
 ---
 

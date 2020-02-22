@@ -1,7 +1,7 @@
 ---
 title: "要封城了，提前买点什么"
 description: '要封城了，提前买点什么'
-keywords: ["备案", "个人"]
+keywords: ["封城", "买东西"]
 date: 2020-01-23T13:16:48-08:00
 lastmod: 2020-01-23T13:16:48-08:00
 draft: false

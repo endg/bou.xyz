@@ -3,12 +3,12 @@ title: "Image Preview"
 date: 2018-03-03T16:01:23+08:00
 lastmod: 2018-03-04T16:01:23+08:00
 draft: false
-tags: ["preview", "image", "shortcodes"]
-categories: ["docs", "shortcodes", "index"]
+tags: ["hugo",]
+categories: ["Web",  "index"]
 
 menu:
   main:
-    parent: "docs"
+    parent: "Docs"
     weight: 3
 ---
 

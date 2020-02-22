@@ -1,7 +1,7 @@
 ---
 title: "F70AR"
 description: 'F70AR光纤放大器的调节和设定'
-keywords: ["备案", "个人"]
+keywords: ["光纤放大器", "F70AR"]
 date: 2020-01-01T13:16:48-08:00
 lastmod: 2020-01-01T13:16:48-08:00
 draft: false

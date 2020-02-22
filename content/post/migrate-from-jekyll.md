@@ -2,17 +2,10 @@
 date: 2014-03-10
 title: "Migrate to Hugo from Jekyll"
 tags: [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-    "development",
-    "jekyll",
+    "hugo",
 ]
 categories: [
-    "Development",
-    "golang",
-    "index",
+    "Web",
 ]
 ---
 

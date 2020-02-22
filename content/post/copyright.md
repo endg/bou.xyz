@@ -6,7 +6,7 @@ date: 2020-02-18T16:01:23+08:00
 lastmod: 2020-02-18T16:01:23+08:00
 draft: false
 tags: ["hugo"]
-categories: ["computer"]
+categories: ["Web"]
 author: "dan"
 slug: 'copyright'
 # You can also close(false) or open(true) something for this content.

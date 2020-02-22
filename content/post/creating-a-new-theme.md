@@ -3,15 +3,10 @@ author: "Michael Henderson"
 date: 2014-09-28
 title: "Creating a New Theme"
 tags: [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-    "development",
+    "hugo",
 ]
 categories: [
-    "Development",
-    "golang",
+    "Web",
     "index",
 ]
 ---

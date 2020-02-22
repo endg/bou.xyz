@@ -1,12 +1,12 @@
 ---
 title: "使用HUGO更新网站"
 description: '流程是复杂的就是因为不会写代码'
-keywords: ["希望", "愿望"]
+keywords: ["更新", "update"]
 date: 2020-02-18T16:01:23+08:00
 lastmod: 2020-02-18T16:01:23+08:00
 draft: false
 tags: ["hugo"]
-categories: ["computer"]
+categories: ["Web"]
 author: "dan"
 slug: 'hugo_write'
 # You can also close(false) or open(true) something for this content.

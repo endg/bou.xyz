@@ -6,7 +6,7 @@ date: 2020-02-06T13:16:48-08:00
 lastmod: 2020-02-06T13:16:48-08:00
 draft: false
 tags: ["debian"]
-categories: ["computer"]
+categories: ["Web"]
 author: "dan"
 slug: 'debian_10after'
 

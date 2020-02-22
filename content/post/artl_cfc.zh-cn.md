@@ -5,8 +5,8 @@ keywords: ["李元", "王思媛"]
 date: 2020-02-18T13:16:48-08:00
 lastmod: 2020-02-18T13:16:48-08:00
 draft: false
-tags: ["meishu"]
-categories: ["Art"]
+tags: ["art"]
+categories: ["Who"]
 author: "Yuan Li & Siyuan Wang"
 slug: 'artl_cfc'
 

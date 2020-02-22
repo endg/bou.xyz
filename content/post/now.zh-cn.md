@@ -1,14 +1,14 @@
 ---
-title: "Now"
+title: "现在"
 description: 'contains a list of questions and answers pertaining to a particular topic. '
 keywords: ["hugo", "faq"]
-date: 2020-02-20T13:16:48-08:00
-lastmod: 2020-02-20T13:16:48-08:00
+date: 2020-02-21T13:16:48-08:00
+lastmod: 2020-02-21T13:16:48-08:00
 draft: false
-tags: ["hugo"]
-categories: ["Web"]
+tags: ["We"]
+categories: ["Who"]
 author: "dan"
-slug: 'faq'
+slug: 'now'
 
 
 # You can also close(false) or open(true) something for this content.

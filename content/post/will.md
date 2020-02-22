@@ -5,8 +5,8 @@ keywords: ["hope", "list"]
 date: 2020-02-18T16:01:23+08:00
 lastmod: 2020-02-18T16:01:23+08:00
 draft: false
-tags: ["list"]
-categories: ["personal"]
+tags: ["Will"]
+categories: ["Who"]
 author: "dan"
 slug: 'will'
 # You can also close(false) or open(true) something for this content.

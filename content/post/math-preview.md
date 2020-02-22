@@ -4,8 +4,8 @@ author: "Murray Bourne"
 date: 2019-03-04T16:01:23+08:00
 lastmod: 2019-03-05T16:01:23+08:00
 draft: false
-tags: ["preview", "math"]
-categories: ["docs", "math", "index"]
+tags: ["hugo"]
+categories: ["Web","index"]
 
 # mathjax: true
 
@@ -19,7 +19,7 @@ markup: mmark
 
 menu:
   main:
-    parent: "docs"
+    parent: "Docs"
     weight: 5
 ---
 

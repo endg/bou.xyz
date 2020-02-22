@@ -3,8 +3,8 @@ title: "gallery21"
 date: 2018-03-06T16:01:23+08:00
 lastmod: 2018-03-07T16:01:23+08:00
 draft: false
-tags: ["preview", "shortcodes"]
-categories: ["docs", "shortcodes", "index"]
+tags: ["hugo"]
+categories: ["Web", "index"]
 author: "dan"
 
 # You can also close(false) or open(true) something for this content.
@@ -19,7 +19,7 @@ mathjax: true
 
 menu:
   main:
-    parent: "docs"
+    parent: "Docs"
     weight: 2
 ---
 

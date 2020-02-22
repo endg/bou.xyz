@@ -3,8 +3,8 @@ title: "gallery1图片测试"
 date: 2018-03-06T16:01:23+08:00
 lastmod: 2018-03-07T16:01:23+08:00
 draft: false
-tags: ["预览", "图形"]
-categories: ["shortcodes", "index"]
+tags: ["hugo"]
+categories: ["Web", "index"]
 author: "Typora"
 
 # You can also close(false) or open(true) something for this content.
