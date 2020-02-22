@@ -1,7 +1,7 @@
 ---
 title: "Now"
-description: 'contains a list of questions and answers pertaining to a particular topic. '
-keywords: ["hugo", "faq"]
+description: '小登纪: What I’m doing now'
+keywords: ["hugo", "now"]
 date: 2020-02-21T13:16:48-08:00
 lastmod: 2020-02-21T13:16:48-08:00
 draft: false
@@ -21,60 +21,49 @@ slug: 'now'
 # reward: false
 # mathjax: false
 ---
-## 修改jane事项
+# What I’m doing now
 
-有关jane主题的一些使用事项：
+## Focusing
 
-~~1.config里启用不蒜子后，最下面数值很大，不是从零开始的。（后记：生成public后传到虚拟主机就可以显示正常了）~~
+Well, that’s the meta-answer. There are times in my life when my head is up, looking around. And times when my head is down.
 
-2.gallery识别不出来webp格式的图片，因此图片文件夹里webp格式的要一张一张添加到MD里
+Right now I’m completely head-down and focused. Not even reading. Just programming and writing every hour I’m awake. All work. No play.
 
-3. [Jane Theme Preview](/post/jane-theme-preview/)这个文档怎么总在第一个？
-4. SCSS文件怎么改？因为想要修改CSS样式
-5. ~~如何置顶文章？在文章头部的配置中加上一条： `weight: 1` ，就可以置顶了。~~
+Except when I’m with my son. I [stop everything](https://sivers.org/dw) then.
 
-## hugo todo
+## Programming
 
-hugo网站需要做的事情
+For 10+ years I’ve been making web apps using only Ruby on the server.
 
-- [ ] slides在线的幻灯片是如何制作的？这个功能将来应该会用到
+But now I need to make a few new web apps, and update my old web apps,  so I thought it was time to look into a new way of doing things.
 
-- [ ] 图片GALERY怎么样形式的添加上去
+After looking into every existing framework and toolkit, I’ve decided to use plain modern JavaScript, no frameworks. So now I’m programming my translation site and storefront to sell my books. It feels nice to start from scratch, and remind myself of the basics.
 
-- [ ] google、baidu 搜索不到 github page？
+Most of the real work is done in [PostgreSQL](https://sivers.org/pg).
 
-- [ ] hugo webhook 怎么实现 ？
+## Finishing “[How to Live](https://sivers.org/h)”
 
-- [ ] hugo toc 怎么实现 ？
+Many hours a day, finishing the book I’ve been most excited about for the last two years.
 
-- [ ] 每篇文章的后面加入更新日期和相关文章
+It’s coming together really well. I think it’s by far the best thing I’ve ever done.
 
-- [ ] 964813.XYZ在手机端和电脑端的区别 ？
+But more about that, later.
 
-- [ ] HUGO md文件的创建日期和更新日期，及作者，添加到每篇文章去
+## Weightlifting, 5×5
 
-- [ ] 首页上如何显示最近更新的五篇文章
+Three days a week, hit the gym for 45 minutes to do the [5×5 routine](https://www.bodybuilding.com/content/is-stronglifts-5x5-the-right-training-program-for-you.html).  Current 5×5 weights as of today:
 
-- [ ] HUGO SEO
+| squat    | 120 kg  |
+| -------- | ------- |
+| overhead | 50 kg   |
+| row      | 55 kg   |
+| bench    | 77.5 kg |
+| deadlift | 120 kg  |
 
-- [ ] 如何优化各文件大小？怎么看出浏览器中文件的大小？
+## Book, not articles
 
-- 国内 CDN 加载静态文件(国内)（版权 隐私）
+Until now, I’ve shared all of my ideas in [articles](http://www.964813.xyz). [One idea at a time](https://sivers.org/1idea).
 
-- 2.师夷长技
+But I’m trying something different this time. I’m saving them, and putting them all in the book.
 
-- 3.健康生活
-
-- 4.旅行的意义
-
-- todo：will
-
-- 网站备份策略 个人文件备份策略
-
-- 友情链接怎么加，是否应该加，加在哪里，主页上还是友情链接页面上
-
-- 虚机主机的域名解析使用cname还是ip地址？
-
-- 网站分类 hugo process life travel
-
-- 标题中怎么加入emoji
+About 10 times a day, as I’m writing, I think of an idea that would make a good stand-alone article. But instead of stopping to blog, I keep working on the book. Gotta finish. Gotta finish.

@@ -1,5 +1,6 @@
 ---
 title: "关于"
+description: '小登纪: 关于:'
 date: 2020-02-18T21:38:52+08:00
 lastmod: 2020-02-19T21:41:52+08:00
 menu: "main"

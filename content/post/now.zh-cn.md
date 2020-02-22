@@ -1,7 +1,7 @@
 ---
 title: "现在"
-description: 'contains a list of questions and answers pertaining to a particular topic. '
-keywords: ["hugo", "faq"]
+description: '小登纪: 我在干啥'
+keywords: ["hugo", "now"]
 date: 2020-02-21T13:16:48-08:00
 lastmod: 2020-02-21T13:16:48-08:00
 draft: false

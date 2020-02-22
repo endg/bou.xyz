@@ -1,6 +1,6 @@
 ---
 title: "关于jane主题"
-description: '有关jane主题的一些使用事项'
+description: '小登纪: About:有关jane主题的一些使用事项'
 keywords: ["hugo", "jane"]
 date: 2020-02-19T13:16:48-08:00
 lastmod: 2020-02-19T13:16:48-08:00
