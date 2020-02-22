@@ -10,7 +10,6 @@ categories: ["Web"]
 author: "dan"
 slug: 'faq'
 
-weight: 1
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed

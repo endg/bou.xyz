@@ -196,16 +196,16 @@ In both styles, the link text is delimited by [square brackets].
 To create an inline link, use a set of regular parentheses immediately after the link text’s closing square bracket. Inside the parentheses, put the URL where you want the link to point, along with an optional title for the link, surrounded in quotes. For example:
 
 ``` markdown
-This is [an example](http://example.com/ "Title") inline link.
+This is [an example](http://www.964813.xyz/ "Title") inline link.
 
-[This link](http://example.net/) has no title attribute.
+[This link](http://www.964813.xyz/) has no title attribute.
 ```
 
 will produce:
 
-This is [an example](http://example.com/"Title") inline link. (`<p>This is <a href="http://example.com/" title="Title">`)
+This is [an example](http://www.964813.xyz"Title") inline link. (`<p>This is <a href="http://www.964813.xyz" title="Title">`)
 
-[This link](http://example.net/) has no title attribute. (`<p><a href="http://example.net/">This link</a> has no`)
+[This link](http://www.964813.xyz) has no title attribute. (`<p><a href="http://www.964813.xyz">This link</a> has no`)
 
 ### Internal Links
 
@@ -229,7 +229,7 @@ In typora, they will be rendered like:
 
 This is [an example][id] reference-style link.
 
-[id]: http://example.com/	"Optional Title Here"
+[id]: http://www.964813.xyz	"Optional Title Here"
 
 The implicit link name shortcut allows you to omit the name of the link, in which case the link text itself is used as the name. Just use an empty set of square brackets — e.g., to link the word “Google” to the google.com web site, you could simply write:
 
