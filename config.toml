@@ -5,11 +5,11 @@ enableEmoji = true
 theme = "jane"
 
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
-paginate = 5              # Number of articles displayed on the homepage # 首页每页显示的文章数
+paginate = 18              # Number of articles displayed on the homepage # 首页每页显示的文章数
 rssLimit = 100             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = " 小登纪 | <a class=theme-link href=https://github.com/xianmin/hugo-theme-jane>Jane</a> | <a href=http://www.964813.xyz/sitemap.xml>网站地图</a> | <a href=mailto:lmg_bit@163.com>给我邮件</a> | <a href=http://www.964813.xyz/index.xml>RSS订阅</a>"            # default: author.name ↓        # 默认为下面配置的author.name ↓
+copyright = " 小登纪  | <a href=http://www.964813.xyz/sitemap.xml>网站地图</a> | <a href=mailto:lmg_bit@163.com>给我邮件</a> | <a href=http://www.964813.xyz/index.xml>RSS订阅</a>"            # default: author.name ↓        # 默认为下面配置的author.name ↓
 enableGitInfo = true      # use git commit log to generate lastmod record # 可根据 Git 中的提交生成最近更新记录。
 # uglyURLs = true         # more info: https://gohugo.io/content-management/urls/#ugly-urls
 
@@ -21,10 +21,10 @@ PygmentsCodefencesGuessSyntax = true
 PygmentsOptions = "linenos=table"
 
 # Enable author pages
-#[taxonomies]
-#  author = "author"
-#  tag = "tags"
-#  category = "categories"
+[taxonomies]
+  author = "author"
+  tag = "tags"
+  category = "categories"
 
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "en"           # Default language to use
@@ -59,10 +59,6 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 40
   identifier = "categories"
   url = "/categories/"
-[[menu.main]]
-  name = "external-link"
-  weight = 50
-  url = "/post/will"
 
 [[languages.zh-cn.menu.main]]             # config your menu              # 配置目录
   name = "首页"
@@ -84,10 +80,6 @@ defaultContentLanguage = "en"           # Default language to use
   weight = 40
   identifier = "categories"
   url = "/categories/"
-[[languages.zh-cn.menu.main]]
-  name = "扩展"
-  weight = 50
-  url = "/post/will"
   
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda

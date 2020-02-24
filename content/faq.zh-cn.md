@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Question"
+title: "常见问题解答"
 description: 'contains a list of questions and answers pertaining to a particular topic. '
 keywords: ["hugo", "faq"]
 date: 2020-02-20T13:16:48-08:00
@@ -9,6 +9,10 @@ tags: ["hugo"]
 categories: ["Web"]
 author: "dan"
 slug: 'faq'
+menu:
+  main:
+    parent: "关于"
+    weight: 2
 
 
 # You can also close(false) or open(true) something for this content.

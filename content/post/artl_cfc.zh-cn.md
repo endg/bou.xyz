@@ -7,7 +7,7 @@ lastmod: 2020-02-18T13:16:48-08:00
 draft: false
 tags: ["art"]
 categories: ["Who"]
-author: "Yuan Li & Siyuan Wang"
+author: "李元"
 slug: 'artl_cfc'
 
 # You can also close(false) or open(true) something for this content.

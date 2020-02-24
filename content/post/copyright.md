@@ -7,7 +7,7 @@ lastmod: 2020-02-18T16:01:23+08:00
 draft: false
 tags: ["hugo"]
 categories: ["Web"]
-author: "dan"
+author: "cc"
 slug: 'copyright'
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed

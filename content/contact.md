@@ -10,6 +10,10 @@ categories: ["Who"]
 author: "dan"
 slug: 'contact'
 
+menu:
+  main:
+    parent: "About"
+    weight: 2
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
@@ -34,7 +38,7 @@ slug: 'contact'
 
 ## Caveat (read first)
 
-​	First [please read my “frequently asked questions” page](http://www.964813.xyz/post/faq).
+​	First [please read my “frequently asked questions” page](/faq).
 
 ​	If that page didn’t answer your question, please search my site:
 
@@ -48,6 +52,6 @@ slug: 'contact'
 
 ## … or just follow
 
-​	You can follow me using  [RSS](https://sivers.org/en.atom).
+​	You can follow me using  [RSS](/index.xml).
 
 ​	**I don’t check my social media inboxes.** 	So please just email me instead.
