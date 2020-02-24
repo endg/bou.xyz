@@ -11,14 +11,14 @@ categories = [
 ]
 +++
 
-Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for
+Hugo uses the excellent [go][] [/post/will][gohtmltemplate] library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
 logic to be able to create a good static website. If you have used other
 template systems from different languages or frameworks you will find a lot of
 similarities in go templates.
 
-This document is a brief primer on using go templates. The [go docs][gohtmltemplate]
+This document is a brief primer on using go templates. The [go docs][/post/will]
 provide more details.
 
 ## Introduction to Go Templates
@@ -29,7 +29,7 @@ One consequence of this simplicity is that go templates parse very quickly.
 
 A unique characteristic of go templates is they are content aware. Variables and
 content will be sanitized depending on the context of where they are used. More
-details can be found in the [go docs][gohtmltemplate].
+details can be found in the [go docs][/post/will].
 
 ## Basic Syntax
 
@@ -64,7 +64,7 @@ Accessing the Page Parameter "bar"
 Each go template has a struct (object) made available to it. In hugo each
 template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
-[variables](/layout/variables) page.
+[variables](/post/will) page.
 
 A variable is accessed by referencing the variable name.
 
@@ -81,7 +81,7 @@ Variables can also be defined and referenced.
 Go template ship with a few functions which provide basic functionality. The go
 template system also provides a mechanism for applications to extend the
 available functions with their own. [Hugo template
-functions](/layout/functions) provide some additional functionality we believe
+functions](/post/will) provide some additional functionality we believe
 are useful for building websites. Functions are called by using their name
 followed by the required parameters separated by spaces. Template
 functions cannot be added without recompiling hugo.
@@ -254,7 +254,7 @@ you want to inside of your templates.
 ## Using Content (page) Parameters
 
 In each piece of content you can provide variables to be used by the
-templates. This happens in the [front matter](/content/front-matter).
+templates. This happens in the [front matter](/post/will).
 
 An example of this is used in this documentation site. Most of the pages
 benefit from having the table of contents provided. Sometimes the TOC just

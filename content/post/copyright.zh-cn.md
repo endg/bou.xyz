@@ -20,9 +20,29 @@ reward: false
 # mathjax: true
 ---
 
-本站([www.964813.xyz](http://www.964813.xyz))，全部内容禁止商业使用。除非注明，本站文章均为原创，转载请以链接形式标明本文地址。 
-小登纪版权声明与基于「署名-非商业性使用-禁止演绎 4.0 国际许可协议」的开放获取。
+# 
 
+## ![cc logo](https://creativecommons.org/images/deed/cc_icon_white_x2.png) ![img](https://creativecommons.org/images/deed/attribution_icon_white_x2.png) ![img](https://creativecommons.org/images/deed/nc_white_x2.png) ![img](https://creativecommons.org/images/deed/nd_white_x2.png)署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)
 
+这是一份普通人可以理解的[许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hans)概要 (但不是替代) 。 [免责声明](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#).
 
-This site（www. 964813.xyz）is completely off limits for commercial use. Unless otherwise noted, this site articles are original, reprint please indicate the address of this article in the form of links. dan's note copyright statement and open access based on "byline-non-commercial use-non-deductive 4.0 international license agreement".
+### 您可以自由地：
+
+- **共享** — 在任何媒介以任何形式复制、发行本作品
+- 
+
+- 只要你遵守许可协议条款，许可人就无法收回你的这些权利。
+
+### 惟须遵守下列条件：
+
+- **署名** — 您必须给出[适当的署名](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#)，提供指向本许可协议的链接，同时[标明是否（对原始作品）作了修改](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#)。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
+- **非商业性使用** — 您不得将本作品用于[商业目的](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#)。
+- **禁止演绎** — 如果您 [再混合、转换、或者基于该作品创作](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#)，您不可以分发修改作品。
+
+- **没有附加限制** — 您不得适用法律术语或者 [技术措施](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#) 从而限制其他人做许可协议允许的事情。
+
+### 声明：
+
+- 您不必因为公共领域的作品要素而遵守许可协议，或者您的使用被可适用的 [例外或限制](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#)所允许。
+- 不提供担保。许可协议可能不会给与您意图使用的所必须的所有许可。例如，其他权利比如[形象权、隐私权或人格权](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#)可能限制您如何使用作品。
+

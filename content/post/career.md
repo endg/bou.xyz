@@ -1,6 +1,6 @@
 ---
 title: "How to change or build your career"
-description: '小登纪: I get emails from many people wanting to change or build their career.  I always recommend the best book on the subject: “So Good They Can’t Ignore You” by Cal Newport.  Here are a few of its best points:'
+description: 'I get emails from many people wanting to change or build their career. '
 keywords: ["hugo", "career"]
 date: 2020-02-20T13:16:48-08:00
 lastmod: 2020-02-20T13:16:48-08:00
@@ -21,7 +21,7 @@ slug: 'career'
 # reward: false
 # mathjax: false
 ---
-​	I get emails from many people wanting to change or build their career. I always recommend the best book on the subject: “[So Good They Can’t Ignore You](https://sivers.org/book/SoGood)” by Cal Newport. Here are a few of its best points:
+I get emails from many people wanting to change or build their career. I always recommend the best book on the subject: “[So Good They Can’t Ignore You](https://sivers.org/book/SoGood)” by Cal Newport. Here are a few of its best points:
 
 ### 	Forget passion and purpose
 
@@ -93,7 +93,7 @@ slug: 'career'
 
 ​	If you’re starting from scratch anyway, jump into any growing field and start building your skills, expertise, connections, and reputation. Pick a niche and dominate it.
 
-​	If you have no ideas, check out [this list of what startup investors want to invest in](https://www.ycombinator.com/rfs/). And [JWT’s “Things to Watch”](https://www.google.com/search?q=jwt+things+to+watch) is always fun and inspiring.
+​	If you have no ideas, check out [this list of what startup investors want to invest in](http://www.964813.xyz). And [JWT’s “Things to Watch”](http://www.964813.xyz/) is always fun and inspiring.
 
 ### 	Read “[So Good They Can’t Ignore You](https://sivers.org/book/SoGood)”
 
@@ -107,4 +107,5 @@ slug: 'career'
 
 [![img](https://sivers.org/images/SoGood.gif)](https://sivers.org/book/SoGood)
 
-# 	Copy & share:        [www.964813.xyz/career](http://www.964813.xyz/faq)
+# 	Copy & share:        [http://www.964813.xyz/post/career](http://www.964813.xyz/post/faq)
+

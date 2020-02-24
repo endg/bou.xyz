@@ -10,7 +10,6 @@ categories: ["Web"]
 author: "dan"
 slug: 'faq'
 
-weight: 1
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
@@ -62,21 +61,21 @@ weight: 1
 
 ### 	Can I use your video / article?
 
-​	**Yes. Anything I put on [sivers.org](https://sivers.org/) is free forever.**
+​	**Yes. Anything I put on [www.964813.xyz](http://www.964813.xyz/) is free forever.**
 
 ​	It would be nice if you could credit me and link back to sivers.org But honestly I don’t care either way.
 
-​	For the “[First Follower — How to Make a Movement — Leadership Lessons from a Dancing Guy](https://sivers.org/ff)” dancing guy video, please get my original from [sivers.org/ff](https://sivers.org/ff) instead of [the one from the TED Conference](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement).
+​	For the “[First Follower — How to Make a Movement — Leadership Lessons from a Dancing Guy](https://sivers.org/ff)” dancing guy video, please get my original from [sivers.org/ff](https://sivers.org/ff) instead of [the one from the TED Conference](http://www.964813.xyz/post/).
 
 ------
 
 ### 	Will you be on my podcast?
 
-​	**Maybe. [Email me](https://sivers.org/contact) a list of questions you’d like to ask.**
+​	**Maybe. [Email me](http://www.964813.xyz/post/contact) a list of questions you’d like to ask.**
 
 ​	I enjoy interviews when the questions are interesting, and haven’t been covered before.
 
-​	[Here is the archive](https://sivers.org/i) of my past podcast interviews.
+​	[Here is the archive](http://www.964813.xyz/post/) of my past podcast interviews.
 
 ------
 
@@ -166,7 +165,7 @@ weight: 1
 
 ​	If you just want to get a job or make a website, you can ignore the curiosity about other languages. Just master JavaScript, and it will take you far.
 
-​	But if you still find programming fascinating, make a point of learning the basics of three or four other vastly different languages, like [SQL](https://www.oreilly.com/library/view/head-first-sql/9780596526849/), [Python](https://www.python.org/), and [Racket](https://racket-lang.org/), because something clicks once you understand a few different ways of getting the end result you want. You don’t need to master them. Just spend a month with each, going through a couple tutorial books about it, and making something happen with it.
+​	But if you still find programming fascinating, make a point of learning the basics of three or four other vastly different languages, like [SQL](https://www.oreilly.com/library/view/head-first-sql/9780596526849/), [Python](http://www.964813.xyz/post/), and [Racket](https://racket-lang.org/), because something clicks once you understand a few different ways of getting the end result you want. You don’t need to master them. Just spend a month with each, going through a couple tutorial books about it, and making something happen with it.
 
 ​	Definitely read “[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)”, no matter what.
 
@@ -218,5 +217,5 @@ weight: 1
 
 ![img](https://sivers.org/images/notlost.jpg)
 
-# 	Copy & share:        [[www.964813.xyz/faq](http://[www.964813.xyz/faq)
+# 	Copy & share:        [www.964813.xyz/faq](http://www.964813.xyz/post/faq)
 

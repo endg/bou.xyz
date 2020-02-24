@@ -60,3 +60,4 @@ hugo网站需要做的事情
 - 网站分类 hugo process life travel
 - 标题中怎么加入emoji
 - WORK WEB WORLD
+- 建立镜像网站，域名迅速替换
