@@ -107,5 +107,5 @@ I get emails from many people wanting to change or build their career. I always 
 
 [![img](https://sivers.org/images/SoGood.gif)](https://sivers.org/book/SoGood)
 
-# 	Copy & share:        [http://www.964813.xyz/post/career](http://www.964813.xyz/post/faq)
+# 	Copy & share:        [http://www.964813.xyz/post/career](/post/career)
 

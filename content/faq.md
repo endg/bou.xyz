@@ -221,5 +221,5 @@ menu:
 
 ![img](https://sivers.org/images/notlost.jpg)
 
-# 	Copy & share:        [www.964813.xyz/faq](http://www.964813.xyz/post/faq)
+# 	Copy & share:        [www.964813.xyz/faq](/faq)
 

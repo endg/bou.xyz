@@ -206,5 +206,5 @@ mathjax: false
 
 ## 	Questions? Thoughts?
 
-​	No comments here. That would be too weird. This is too personal. Just [email me](http://www.964813.xyz/post/contact).
+​	No comments here. That would be too weird. This is too personal. Just [email me](/contact).
 
