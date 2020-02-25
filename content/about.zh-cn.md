@@ -24,7 +24,6 @@ mathjax: false
 
 Email：lmg_bit#163.com（#改成@）
 
-Wechat：deng9k
 
 ## 本站架构
 
