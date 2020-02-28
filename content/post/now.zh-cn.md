@@ -21,60 +21,85 @@ slug: 'now'
 # reward: false
 # mathjax: false
 ---
-## 修改jane事项
+# What I’m doing now我现在在做什么
 
-有关jane主题的一些使用事项：
+## 焦点
 
-~~1.config里启用不蒜子后，最下面数值很大，不是从零开始的。（后记：生成public后传到虚拟主机就可以显示正常了）~~
+嗯，这就是元答案。在我的生活中，有时候我的头抬起头，环顾四周。还有，当我低头的时候。
 
-2.gallery识别不出来webp格式的图片，因此图片文件夹里webp格式的要一张一张添加到MD里
+现在，我完全低下了头，专心致志。连阅读都没有。我醒着的时候只是编程和写作。所有的工作。没有玩
 
-3. [Jane Theme Preview](/post/jane-theme-preview/)这个文档怎么总在第一个？
-4. SCSS文件怎么改？因为想要修改CSS样式
-5. ~~如何置顶文章？在文章头部的配置中加上一条： `weight: 1` ，就可以置顶了。~~
+除了我和儿子在一起的时候。那我就停止一切。
 
-## hugo todo
+Except when I’m with my son. I [stop everything](https://sivers.org/dw) then.
 
-hugo网站需要做的事情
+## Programming
 
-- [ ] slides在线的幻灯片是如何制作的？这个功能将来应该会用到
+For 10+ years I’ve been making web apps using only Ruby on the server.
 
-- [ ] 图片GALERY怎么样形式的添加上去
+But now I need to make a few new web apps, and update my old web  apps,  so I thought it was time to look into a new way of doing things.
 
-- [ ] google、baidu 搜索不到 github page？
+After looking into every existing framework and toolkit, I’ve decided to use plain modern JavaScript, no frameworks. So now I’m programming  my translation site and storefront to sell my books. It feels nice to  start from scratch, and remind myself of the basics.
 
-- [ ] hugo webhook 怎么实现 ？
+Most of the real work is done in [PostgreSQL](https://sivers.org/pg).
 
-- [ ] hugo toc 怎么实现 ？
+## Finishing “[How to Live](https://sivers.org/h)”
 
-- [ ] 每篇文章的后面加入更新日期和相关文章
+Many hours a day, finishing the book I’ve been most excited about for the last two years.
 
-- [ ] 964813.XYZ在手机端和电脑端的区别 ？
+It’s coming together really well. I think it’s by far the best thing I’ve ever done.
 
-- [ ] HUGO md文件的创建日期和更新日期，及作者，添加到每篇文章去
+But more about that, later.
 
-- [ ] 首页上如何显示最近更新的五篇文章
+## Weightlifting, 5×5
 
-- [ ] HUGO SEO
+Three days a week, hit the gym for 45 minutes to do the [5×5 routine](https://www.bodybuilding.com/content/is-stronglifts-5x5-the-right-training-program-for-you.html).  Current 5×5 weights as of today:
 
-- [ ] 如何优化各文件大小？怎么看出浏览器中文件的大小？
+| squat    | 120 kg  |
+| -------- | ------- |
+| overhead | 50 kg   |
+| row      | 55 kg   |
+| bench    | 77.5 kg |
+| deadlift | 120 kg  |
 
-- 国内 CDN 加载静态文件(国内)（版权 隐私）
+## Book, not articles
 
-- 2.师夷长技
 
-- 3.健康生活
+现在，我完全低下了头，专心致志。连阅读都没有。我醒着的时候只是编程和写作。所有的工作。不要玩
 
-- 4.旅行的意义
+除了我和女儿在一起的时候。那我就停止一切。
 
-- todo：will
+## 程式设计
 
-- 网站备份策略 个人文件备份策略
+十多年来，我一直只在服务器上使用HUGO来制作网络应用。
 
-- 友情链接怎么加，是否应该加，加在哪里，主页上还是友情链接页面上
+但是现在我需要制作一些新的Web应用程序，并更新旧的Web应用程序，所以我认为是时候研究一种新的做事方式了。
 
-- 虚机主机的域名解析使用cname还是ip地址？
+在研究了每个现有框架和工具包之后，我决定不使用任何框架而使用普通的现代JavaScript。因此，现在我正在为翻译站点和店面编程以出售我的书。从头开始，让自己想起基础知识真是太好了。
 
-- 网站分类 hugo process life travel
+大部分实际工作都是在虚拟机中完成的。
 
-- 标题中怎么加入emoji
+## 完成“如何生活”
+
+每天花很多时间整理这本书，这是过去两年里我最兴奋的一件事。
+
+融合得非常好。我认为这是迄今为止我做过的最好的事情。
+
+但是，稍后更多。
+
+## 举重5×5
+
+每周三天，到健身房锻炼45分钟，进行5×5的锻炼。截至目前的当前5×5权重：
+蹲120公斤
+架空50公斤
+第55公斤
+板凳77.5公斤
+硬拉120公斤
+
+## 书，不是文章
+
+到目前为止，我已经在文章中分享了我的所有想法。一次提出一个想法。
+
+但是这次我正在尝试一些不同的东西。我要保存它们，并将它们全部放入书中。
+
+在撰写本文时，我每天大约要思考10次，这样的想法很适合撰写独立的文章。但是我没有停下来写博客，而是继续从事这本书。要完成。要完成。

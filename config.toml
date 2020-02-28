@@ -9,7 +9,7 @@ paginate = 18              # Number of articles displayed on the homepage # 首�
 rssLimit = 100             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = " 小登纪  | <a href=http://www.964813.xyz/sitemap.xml>网站地图</a> | <a href=mailto:lmg_bit@163.com>给我邮件</a> | <a href=http://www.964813.xyz/index.xml>RSS订阅</a>"            # default: author.name ↓        # 默认为下面配置的author.name ↓
+copyright = " 小登纪  | <a href=http://www.964813.xyz/sitemap.xml>网站地图</a> | <a href=mailto:lmg_bit@163.com>给我邮件</a> | <a href=http://www.964813.xyz/index.xml>RSS</a>"            # default: author.name ↓        # 默认为下面配置的author.name ↓
 enableGitInfo = true      # use git commit log to generate lastmod record # 可根据 Git 中的提交生成最近更新记录。
 # uglyURLs = true         # more info: https://gohugo.io/content-management/urls/#ugly-urls
 
@@ -118,7 +118,7 @@ defaultContentLanguage = "en"           # Default language to use
   bootcdn = true           # In china. @Deprecated: use [params.publicCDN]             # 是否使用bootcdn(@Deprecated: 请使用[params.publicCDN])
   mathjax = false           # see https://www.mathjax.org/                              # 是否使用mathjax（数学公式）
   katex = false             # see https://github.com/KaTeX/KaTeX
-  contentCopyright = '<a rel="license noopener" href="http://www.964813.xyz/post/copyright/" target="_blank">CC BY-NC-ND 4.0</a>'
+  contentCopyright = '<a rel="license noopener" href="/post/copyright/" target="_blank">CC BY-NC-ND 4.0</a>'
 
   changyanAppid = ""        # Changyan app id             # 畅言
   changyanAppkey = ""       # Changyan app key

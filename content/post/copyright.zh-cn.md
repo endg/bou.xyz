@@ -3,7 +3,7 @@ title: "版权声明"
 description: '有关版权的一些事情'
 keywords: ["copyright", "版权声明"]
 date: 2020-02-18T16:01:23+08:00
-lastmod: 2020-02-18T16:01:23+08:00
+lastmod: 2020-02-27T16:01:23+08:00
 draft: false
 tags: ["hugo"]
 categories: ["Web"]
@@ -20,9 +20,9 @@ reward: false
 # mathjax: true
 ---
 
-# 
 
-## ![cc logo](https://creativecommons.org/images/deed/cc_icon_white_x2.png) ![img](https://creativecommons.org/images/deed/attribution_icon_white_x2.png) ![img](https://creativecommons.org/images/deed/nc_white_x2.png) ![img](https://creativecommons.org/images/deed/nd_white_x2.png)署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)
+
+## 署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)
 
 这是一份普通人可以理解的[许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hans)概要 (但不是替代) 。 [免责声明](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#).
 

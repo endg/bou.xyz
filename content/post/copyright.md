@@ -3,11 +3,11 @@ title: "COPYRIGHT"
 description: '有关版权的一些事情'
 keywords: ["copyright", "版权声明"]
 date: 2020-02-18T16:01:23+08:00
-lastmod: 2020-02-18T16:01:23+08:00
+lastmod: 2020-02-27T16:01:23+08:00
 draft: false
 tags: ["hugo"]
 categories: ["Web"]
-author: "cc"
+author: "CC"
 slug: 'copyright'
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
@@ -20,9 +20,9 @@ reward: false
 # mathjax: true
 ---
 
-# 
 
-## ![cc logo](https://creativecommons.org/images/deed/cc_icon_white_x2.png) ![img](https://creativecommons.org/images/deed/attribution_icon_white_x2.png) ![img](https://creativecommons.org/images/deed/nc_white_x2.png) ![img](https://creativecommons.org/images/deed/nd_white_x2.png)Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+## Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
 This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode). [Disclaimer](https://creativecommons.org/licenses/by-nc-nd/4.0/?__cf_chl_captcha_tk__=fb1782c81cf06e959794de448acf0ef766fbc2bb-1582376961-0-AbQfe2sPSD2xA6sJzD-JSmLY2EqTInBqZ0xPyK9WtHUzdpv3VmfXYv58iMg9gPRevYDEd8kpI-40XUgeYRzcKSXTR6Jh587vX8FmhTU3P08ZiDSPQQGtl4B_i0m4ExuSIcj3nMmFFITZ5VvsesKkp9phkSEvLJVui_HBHW1Et7TGDjb3x8-vWb4gIJ4HmBkvslQoiQsNMc9wf3TywzXbN6v5GdcNGViBdgPStf3ozjkxdvC_vnh7sCoUxJmWc3NpVHcE1I7pJ5Mu_8jNstDx9YrLgp1sZAxFzp6OKocK8FN6cgpSoiEo0fd6YG45Fkx79qKNeiZlRPk1cJRxRm5o7j9AHBvZkoSv9gUFFDgBl1Dsb0ExLpo4LL6lej_rsux6oVQsdrQgyCxlUF91vqRBqJE#).
 
