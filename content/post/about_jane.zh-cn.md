@@ -1,7 +1,7 @@
 ---
 title: "关于jane主题"
 description: '小登纪: About:有关jane主题的一些使用事项'
-keywords: ["hugo", "jane"]
+keywords: ["hugo", "jane主题"]
 date: 2020-02-19T13:16:48-08:00
 lastmod: 2020-02-19T13:16:48-08:00
 draft: false
@@ -22,17 +22,18 @@ weight: 1
 # reward: false
 # mathjax: false
 ---
+关键词：JANE主题
+
 ## 修改jane事项
 
 有关jane主题的一些使用事项：
 
-~~1.config里启用不蒜子后，最下面数值很大，不是从零开始的。（后记：生成public后传到虚拟主机就可以显示正常了）~~
 
 2.gallery识别不出来webp格式的图片，因此图片文件夹里webp格式的要一张一张添加到MD里
 
-3. [Jane Theme Preview](/post/jane-theme-preview/)这个文档怎么总在第一个？
-4. SCSS文件怎么改？因为想要修改CSS样式
-5. ~~如何置顶文章？在文章头部的配置中加上一条： `weight: 1` ，就可以置顶了。~~
+
+1. SCSS文件怎么改？因为想要修改CSS样式
+
 
 ## hugo todo
 

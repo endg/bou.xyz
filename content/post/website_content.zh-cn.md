@@ -1,7 +1,7 @@
 ---
 title: "已备案个人网站如何控制内容"
 description: '不控制网站内容可能会被注销备案'
-keywords: ["备案", "个人"]
+keywords: ["备案", "内容"]
 date: 2020-02-19T13:16:48-08:00
 lastmod: 2020-02-19T13:16:48-08:00
 draft: false
@@ -20,6 +20,7 @@ slug: 'website_content'
 # reward: false
 # mathjax: false
 ---
+关键词：网站内容
 
 - **已备案个人网站如何控制内容**：
 

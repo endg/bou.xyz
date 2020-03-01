@@ -21,6 +21,8 @@ slug: 'now'
 # reward: false
 # mathjax: false
 ---
+keywords:now
+
 ## What I’m doing now
 
 ## Focusing

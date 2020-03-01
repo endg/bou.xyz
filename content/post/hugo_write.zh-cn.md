@@ -19,6 +19,7 @@ slug: 'hugo_write'
 reward: false
 # mathjax: true
 ---
+关键词：更新网站
 
 使用HUGO更新网站
 

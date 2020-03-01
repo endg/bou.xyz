@@ -7,7 +7,7 @@ draft: false
 tags: ["We",]
 categories: ["Who",]
 author: "dan"
-keywords: ["first english", "964813"]
+keywords: ["菜谱", "做饭"]
 slug: "recipe"
 
 # You can also close(false) or open(true) something for this content.
@@ -20,6 +20,7 @@ contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="n
 # reward: false
 #mathjax: true
 ---
+关键词：菜谱
 
 <style type="text/css">
 body { counter-reset: recipe; }

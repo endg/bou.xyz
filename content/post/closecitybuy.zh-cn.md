@@ -21,6 +21,7 @@ slug: 'closecitybuy'
 reward: false
 # mathjax: false
 ---
+关键词:封城
 
 ## 要封城了，提前买点什么 
 

@@ -22,6 +22,7 @@ weight: 1
 # reward: false
 # mathjax: false
 ---
+关键词：debian安装
 
 Debian 10，代号「Buster」，包含了很多特色功能。如果你最近尝试在你的电脑上安装了 Debian 10，安装之后不知道下一步怎么做，本教程可以做为一个参考。
 

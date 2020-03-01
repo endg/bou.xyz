@@ -1,11 +1,11 @@
 ---
 title: "THN面试"
 description: '参加THN的面试并参观工厂'
-keywords: ["备案", "个人"]
+keywords: ["面试"]
 date: 2019-12-23T13:16:48-08:00
 lastmod: 2019-12-23T13:16:48-08:00
 draft: false
-tags: ["inteview"]
+tags: ["Inteview"]
 categories: ["Work"]
 author: "dan"
 slug: 'interview_thn'
@@ -20,6 +20,7 @@ slug: 'interview_thn'
 reward: false
 # mathjax: false
 ---
+关键词：面试
 
 1. **面试概述**：
 

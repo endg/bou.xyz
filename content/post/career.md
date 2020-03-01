@@ -21,6 +21,8 @@ slug: 'career'
 # reward: false
 # mathjax: false
 ---
+keywords:career
+
 I get emails from many people wanting to change or build their career. I always recommend the best book on the subject: “[So Good They Can’t Ignore You](https://sivers.org/book/SoGood)” by Cal Newport. Here are a few of its best points:
 
 ### 	Forget passion and purpose

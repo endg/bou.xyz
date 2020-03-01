@@ -25,6 +25,8 @@ menu:
 # reward: false
 # mathjax: false
 ---
+keywords:contact
+
 # Contact lmg_bit@163.com
 
 ​	I love hearing from people, so please email me at [lmg_bit@163.com](mailto:lmg_bit@163.com) and **introduce yourself**.

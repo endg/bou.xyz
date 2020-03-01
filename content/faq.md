@@ -1,7 +1,7 @@
 ---
 title: "Frequently Asked Question"
 description: 'contains a list of questions and answers pertaining to a particular topic. '
-keywords: ["hugo", "faq"]
+keywords: ["hugo","faq"]
 date: 2020-02-20T13:16:48-08:00
 lastmod: 2020-02-20T13:16:48-08:00
 draft: false
@@ -25,6 +25,8 @@ menu:
 # reward: false
 # mathjax: false
 ---
+keywords:faq
+
 ​	In the last ten years, I have answered over 200,000 emails from 86,000 people. It’s my part-time job — my community service. These are the most common questions.
 
 ------
@@ -221,5 +223,5 @@ menu:
 
 ![img](https://sivers.org/images/notlost.jpg)
 
-# 	Copy & share:        [www.964813.xyz/faq](/faq)
+## 	Copy & share:        [www.964813.xyz/faq](/faq)
 

@@ -1,7 +1,7 @@
 ---
 title: "现在"
 description: '小登纪: 我在干啥'
-keywords: ["hugo", "now"]
+keywords: ["hugo", "现在"]
 date: 2020-02-21T13:16:48-08:00
 lastmod: 2020-02-21T13:16:48-08:00
 draft: false
@@ -21,6 +21,8 @@ slug: 'now'
 # reward: false
 # mathjax: false
 ---
+关键词：现在
+
 ## What I’m doing now我现在在做什么
 
 ## 焦点

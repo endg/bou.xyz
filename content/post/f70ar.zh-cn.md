@@ -3,7 +3,7 @@ title: "F70AR"
 description: 'F70AR光纤放大器的调节和设定'
 keywords: ["光纤放大器", "F70AR"]
 date: 2020-01-01T13:16:48-08:00
-lastmod: 2020-01-01T13:16:48-08:00
+lastmod: 2020-03-01T13:16:48-08:00
 draft: false
 tags: ["equipment"]
 categories: ["Work"]
@@ -20,6 +20,7 @@ slug: 'f70ar'
 reward: false
 # mathjax: false
 ---
+关键词：光纤放大器
 
 ## F70AR光纤放大器的调节和设定 
 
