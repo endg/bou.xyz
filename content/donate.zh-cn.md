@@ -18,11 +18,7 @@ mathjax: false
 
 打赏与捐赠只是一种形式，任何有意义的信息、邮件或反馈我很乐于收到。你可以通过以下渠道进行打赏或捐赠。
 
-## 扫码
 
-![img](/images/alipay-qr-code.webp)
-
-![img](/images/wechat-qr-code.webp)
 
 ##  感谢以下各位进行捐赠的朋友（比心）： 
 
