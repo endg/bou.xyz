@@ -18,7 +18,7 @@ slug: 'emoji'
 
 # You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
 #contentCopyright: '<a href="https://github.com/gohugoio/hugoBasicExample" rel="noopener" target="_blank">See origin</a>'
-# reward: false
+reward: false
 # mathjax: false
 ---
 关键词：emoji
@@ -43,4 +43,4 @@ tea  :tea:
 book  :book:
 
 
-## 	Copy & share:        [http://www.964813.xyz/post/sn](/post/sn)
+## 	Copy & share:        [http://www.964813.xyz/post/emoji](/post/emoji)
