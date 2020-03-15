@@ -6,13 +6,13 @@
     {{ $qrCode := .Site.Params.reward }}
     {{ with $qrCode.wechat }}
       <label class="qr-code-image" for="reward">
-        <img class="image" src="{{ . }}" src=rewardWechat>
+        <img class="image" src="{{ . }}" alt=rewardWechat>
         <span>{{ i18n "rewardWechat" }}</span>
       </label>
     {{- end }}
     {{ with $qrCode.alipay }}
       <label class="qr-code-image" for="reward">
-        <img class="image" src="{{ . }}" src=rewardAlipay>
+        <img class="image" src="{{ . }}" alt=rewardAlipay>
         <span>{{ i18n "rewardAlipay" }}</span>
       </label>
     {{- end }}

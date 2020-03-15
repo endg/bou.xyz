@@ -45,23 +45,23 @@ Quote with author and source:
 {{< /blockquote >}}
 
 Quote with author and link:
-{{< blockquote author="Author4" link="http://www.964813.xyz" >}}
-  This is a quote from Author4 and links to http://www.964813.xyz.
+{{< blockquote author="Author4" link="/" >}}
+  This is a quote from Author4 and links to https://www.964813.xyz.
 {{< /blockquote >}}
 
 Quote with author, link and title:
-{{< blockquote author="Author5" link="http://www.964813.xyz" title="Google" >}}
-  This is a quote from Author5 and links to http://www.964813.xyz with title "Google."
+{{< blockquote author="Author5" link="https://www.964813.xyz" title="Google" >}}
+  This is a quote from Author5 and links to https://www.964813.xyz with title "Google."
 {{< /blockquote >}}
 
 Quote with author and a link longer than 32 characters, string is first cut at 32 characters then everything after the last forward slash is removed
-{{< blockquote author="Author6" link="http://www.964813.xyz" >}}
-  This is a quote from Author5 and links to http://www.964813.xyz which is longer than 32 characters.
+{{< blockquote author="Author6" link="https://www.964813.xyz" >}}
+  This is a quote from Author5 and links to https://www.964813.xyz which is longer than 32 characters.
   <br>And this is a new line in the quote with the HTML br tag.
 {{< /blockquote >}}
 
-Test from the Octopress blockquote page at: http://www.964813.xyz
-{{< blockquote author="@allanbranch" link="http://www.964813.xyz" >}}
+Test from the Octopress blockquote page at: https://www.964813.xyz
+{{< blockquote author="@allanbranch" link="https://www.964813.xyz" >}}
   Over the past 24 hours I've been reflecting on my life & I've realized only one thing. I need a medieval battle axe.
 {{< /blockquote >}}
 
@@ -70,17 +70,7 @@ Test from the Octopress blockquote page at: http://www.964813.xyz
 
 {{% music "3950552" %}}
 
-## gist
 
-We can embed the gist in our content via username and gist ID pulled from the URL:
-
-```
-{{</* gist spf13 7896402 */>}}
-```
-
-Display:
-
-{{< gist spf13 7896402 >}}
 
 ## expand
 The Expand shortcode displays an expandable/collapsible section of text on your page. Here is an example

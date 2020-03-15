@@ -77,7 +77,7 @@ keywords:faq
 
 ### 	Will you be on my podcast?
 
-​	**Maybe. [Email me](http://www.964813.xyz/post/contact) a list of questions you’d like to ask.**
+​	**Maybe. [Email me](/contact) a list of questions you’d like to ask.**
 
 ​	I enjoy interviews when the questions are interesting, and haven’t been covered before.
 

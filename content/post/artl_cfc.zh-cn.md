@@ -7,7 +7,7 @@ lastmod: 2020-02-18T13:16:48-08:00
 draft: false
 tags: ["art"]
 categories: ["Who"]
-author: "李元"
+author: "Liyuan"
 slug: 'artl_cfc'
 
 # You can also close(false) or open(true) something for this content.

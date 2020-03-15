@@ -33,6 +33,7 @@ weight: 1
 
 
 1. SCSS文件怎么改？因为想要修改CSS样式
+2. front matter里的author: "dan"要写英文或者拼音，不要用中文
 
 
 ## hugo todo
