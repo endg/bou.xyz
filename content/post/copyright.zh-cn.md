@@ -24,7 +24,7 @@ reward: false
 
 ## 署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)
 
-这是一份普通人可以理解的[许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hans)概要 (但不是替代) 。 [免责声明](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#).
+这是一份普通人可以理解的**许可协议**概要 (但不是替代) 。 **免责声明**.
 
 ### 您可以自由地：
 
@@ -35,14 +35,14 @@ reward: false
 
 ### 惟须遵守下列条件：
 
-- **署名** — 您必须给出[适当的署名](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#)，提供指向本许可协议的链接，同时[标明是否（对原始作品）作了修改](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#)。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
-- **非商业性使用** — 您不得将本作品用于[商业目的](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#)。
-- **禁止演绎** — 如果您 [再混合、转换、或者基于该作品创作](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#)，您不可以分发修改作品。
+- **署名** — 您必须给出**适当的署名**，提供指向本许可协议的链接，同时**标明是否（对原始作品）作了修改**。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
+- **非商业性使用** — 您不得将本作品用于**商业目的**。
+- **禁止演绎** — 如果您 **再混合、转换、或者基于该作品创作**，您不可以分发修改作品。
 
-- **没有附加限制** — 您不得适用法律术语或者 [技术措施](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#) 从而限制其他人做许可协议允许的事情。
+- **没有附加限制** — 您不得适用法律术语或者**技术措施** 从而限制其他人做许可协议允许的事情。
 
 ### 声明：
 
-- 您不必因为公共领域的作品要素而遵守许可协议，或者您的使用被可适用的 [例外或限制](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#)所允许。
-- 不提供担保。许可协议可能不会给与您意图使用的所必须的所有许可。例如，其他权利比如[形象权、隐私权或人格权](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh#)可能限制您如何使用作品。
+- 您不必因为公共领域的作品要素而遵守许可协议，或者您的使用被可适用的 **例外或限制**所允许。
+- 不提供担保。许可协议可能不会给与您意图使用的所必须的所有许可。例如，其他权利比如**形象权、隐私权或人格权**可能限制您如何使用作品。
 
