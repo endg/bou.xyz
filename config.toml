@@ -137,7 +137,7 @@ defaultContentLanguage = "en"           # Default language to use
   # forkMeOnGithub = "https://github.com/xianmin/hugo-theme-jane"
 
   # add custom info on the footer.   # 添加备案信息
-customFooter = " | <a href=http://www.beian.miit.gov.cn/ target=_blank>津ICP备19011517号-1</a> | <img src=/images/police.webp><a href=http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12011402001025 target=_blank>津公网安备 12011402001025号</a>"
+customFooter = " | <a href=http://www.beian.miit.gov.cn/ target=_blank>津ICP备19011517号-1</a> | <img src=/images/police.webp alt=police.webp><a href=http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12011402001025 target=_blank>津公网安备 12011402001025号</a>"
 
   [params.publicCDN]        # load these files from public cdn                          # 启用公共CDN，需自行定义
     enable = false
