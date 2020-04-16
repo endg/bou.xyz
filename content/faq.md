@@ -223,5 +223,5 @@ keywords:faq
 
 ![img](https://sivers.org/images/notlost.jpg)
 
-## 	Copy & share:        [www.964813.xyz/faq](/faq)
+## 	Copy & share:        [www.edwww.com/faq](/faq)
 
