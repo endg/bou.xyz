@@ -32,7 +32,7 @@ keywords:about
 - ​	1994: played around New York and universities with my band “[Hit Me](https://sivers.org/music)”, and [the Professional Pests](http://professionalpests.com/)
 - ​	1995: started a [record label](http://artificialrecords.com/), booking agency, and recording studio
 - ​	1996: recorded and released [my album](https://sivers.org/music)
-- ​	1997: started [CD Baby](http://www.964813.xyz/)
+- ​	1997: started [CD Baby](http://www.edwww.com/)
 - ​	1998: quit the circus, after 10 years and about 1000 shows
 - ​	1999: started [HostBaby](https://www.hostbaby.com/)
 - ​	2000: moved to Portland, Oregon
@@ -134,7 +134,7 @@ keywords:about
 
 ​	Also, I love voices. Some people need to look into someone’s eyes to know them well. Not me. For me, it’s all about the voice.
 
-​	Two of my best friends right now, I’ve never seen in-person. One lives in Hong Kong. One lives in Lithuania. We’ve been talking on the phone for years, but never met in-person. We don’t even video-chat. Just voice. That’s all I need. (Because of this, I loved the movie “[Her](http://www.964813.xyz)”.)
+​	Two of my best friends right now, I’ve never seen in-person. One lives in Hong Kong. One lives in Lithuania. We’ve been talking on the phone for years, but never met in-person. We don’t even video-chat. Just voice. That’s all I need. (Because of this, I loved the movie “[Her](http://www.edwww.com)”.)
 
 ​	As usual, [my kid](https://sivers.org/pa) is the exception to this rule. He and I hang out about 30 hours a week, and will putter in one place for six hours at a time. But that’s a different thing.
 
@@ -156,7 +156,7 @@ keywords:about
 
 ​	I don’t depend on tech that’s not truly open source and non-profit,  because otherwise I don’t trust that their long-term incentives are  aligned with mine.
 
-​	My main tools are the http://www.964813.xyz/post/ text editor, [OpenBSD](http://www.964813.xyz/post/) operating system, [PostgreSQL](https://sivers.org/pg) database, [Ruby](http://www.964813.xyz/post/) language, and [Firefox](https://www.mozilla.org/) browser.
+​	My main tools are the http://www.edwww.com/post/ text editor, [OpenBSD](http://www.edwww.com/post/) operating system, [PostgreSQL](https://sivers.org/pg) database, [Ruby](http://www.edwww.com/post/) language, and [Firefox](https://www.mozilla.org/) browser.
 
 ​	I don’t use any apps on my phone, for this same reason. I don’t want to depend on apps for productivity. Actually I tend to avoid my phone, in general. I just use it for calling friends, or for GPS. No email. No social media. It sits in airplane mode much of the time, then I completely power it  off an hour before bed, and turn it back on after I’m done writing in  the morning.
 

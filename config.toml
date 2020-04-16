@@ -1,5 +1,5 @@
-baseURL = "https://www.964813.xyz/"
-title = "小登纪"
+baseURL = "https://www.edwww.com/"
+title = "老登纪"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -9,7 +9,7 @@ paginate = 18              # Number of articles displayed on the homepage # 首�
 rssLimit = 100             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = " 小登纪  | <a href=http://www.964813.xyz/sitemap.xml>网站地图</a> | <a href=mailto:lmg_bit@163.com>给我邮件</a> | <a href=/index.xml>RSS</a>"            # default: author.name ↓        # 默认为下面配置的author.name ↓
+copyright = " 老登纪  | <a href=https://www.edwww.com/sitemap.xml>网站地图</a> | <a href=mailto:lmg_bit@163.com>给我邮件</a> | <a href=/index.xml>RSS</a>"            # default: author.name ↓        # 默认为下面配置的author.name ↓
 enableGitInfo = true      # use git commit log to generate lastmod record # 可根据 Git 中的提交生成最近更新记录。
 # uglyURLs = true         # more info: https://gohugo.io/content-management/urls/#ugly-urls
 
@@ -83,13 +83,13 @@ defaultContentLanguage = "en"           # Default language to use
   
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
-  since = "2019"            # Site creation time          # 站点建立时间
+  since = "2020"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
   mainSections = ["post"]
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "小登纪"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "老登纪"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["life", "knowledge","low carbon"]
   description = "Simple but effective."
 
@@ -137,7 +137,7 @@ defaultContentLanguage = "en"           # Default language to use
   # forkMeOnGithub = "https://github.com/xianmin/hugo-theme-jane"
 
   # add custom info on the footer.   # 添加备案信息
-customFooter = " | <a href=http://www.beian.miit.gov.cn/ target=_blank>津ICP备19011517号-1</a> | <img src=/images/police.webp alt=police.webp><a href=http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=12011402001025 target=_blank>津公网安备 12011402001025号</a>"
+customFooter = " | <a href=http://www.beian.miit.gov.cn/ target=_blank>津ICP备19011517号-2</a> | <img src=/images/police.webp alt=police.webp>"
 
   [params.publicCDN]        # load these files from public cdn                          # 启用公共CDN，需自行定义
     enable = false
@@ -187,7 +187,7 @@ customFooter = " | <a href=http://www.beian.miit.gov.cn/ target=_blank>津ICP备
     alipay = "/images/alipay-qr-code.webp"           # 支付宝二维码
 
   [params.counter.busuanzi]  # a Chinese visitor counter  # 不蒜子计数器
-    enable = true
+    enable = false
 
   [params.counter.leancloud]  # Chinese leancloud visitor counter  # leancloud 计数器
     enable = false
