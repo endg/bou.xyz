@@ -1,6 +1,6 @@
 baseurl = "https://example.com"
 languageCode = "en-us"
-title = "Flexible SEO Hugo"
+title = "老登纪"
 theme = ["flexible-seo-hugo"]
 googleAnalytics = ""
 enableRobotsTXT = true
