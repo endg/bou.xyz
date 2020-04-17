@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /lion/
-Disallow: /1/
-Sitemap: {{ "sitemap.xml" | absURL }}
