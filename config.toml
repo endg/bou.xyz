@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://edwww.com"
 languageCode = "en-us"
 title = "老登纪"
 theme = ["flexible-seo-hugo"]
@@ -11,10 +11,15 @@ pluralizelisttitles = false
 unsafe = true
 
 [Params]
-  description = "A flexible SEO friendly theme for Hugo"
+  description = "Personal website of DAN's; 老登纪"
   schemas = []
   page_schemas = []
   seo = []
+  homeType = "simple"
+  navType = "simple"
+  headerType = "simple"
+  taxonomyHeaderType = "simple"
+  footerType = "bar_with_2_columns"
 
 [taxonomies]
 
