@@ -1,0 +1,154 @@
+baseurl = "https://edwww.com"
+languageCode = "en-us"
+title = "老登纪"
+theme = ["flexible-seo-hugo"]
+googleAnalytics = ""
+enableRobotsTXT = true
+disableHugoGeneratorInject = true
+pluralizelisttitles = false
+
+# [markup.goldmark.renderer]
+# unsafe = true
+
+[permalinks]
+  cn = "/cn/:slug/"
+  en = "/en/:slug/"
+menu:
+  main:
+    - name: "About"
+      url: "/en/about/"
+      weight: 1
+    - name: "Blog"
+      url: "/en/"
+      weight: 2
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 3
+    - name: "纪录"
+      url: "/cn/"
+      weight: 4
+    - name: "Categories"
+      url: "/categories/"
+      weight: 5
+    - name: "Tags"
+      url: "/tags/"
+      weight: 6
+  en:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/en/about/"
+      weight: 2
+    - name: "Blog"
+      url: "/en/"
+      weight: 3
+    - name: "Vitae"
+      url: "/en/vitae/"
+      weight: 4
+    - name: "Categories"
+      url: "/categories/"
+      weight: 5
+    - name: "Tags"
+      url: "/tags/"
+      weight: 6
+    - name: "中文"
+      url: "/cn/"
+      weight: 7
+  cn:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 2
+    - name: "纪录"
+      url: "/cn/"
+      weight: 3
+    - name: "简历"
+      url: "/cn/vitae/"
+      weight: 4
+    - name: "菜谱"
+      url: "/cn/recipe/"
+      weight: 5
+    - name: "分类"
+      url: "/categories/"
+      weight: 6
+    - name: "标签"
+      url: "/tags/"
+      weight: 7
+    - name: "English"
+      url: "/en/"
+      weight: 8
+  knitr:
+    - name: "Home"
+      url: "/knitr/"
+      weight: 1
+    - name: "Options"
+      url: "/knitr/options/"
+      weight: 2
+    - name: "Hooks"
+      url: "/knitr/hooks/"
+      weight: 3
+    - name: "Examples"
+      url: "/knitr/demos/"
+      weight: 4
+    - name: "FAQ"
+      url: "/knitr/faq/"
+      weight: 5
+    - name: "index"
+      url: "/"
+      weight: 6
+  animation:
+    - name: "Home"
+      url: "/animation/"
+      weight: 1
+    - name: "Examples"
+      url: "/animation/examples/"
+      weight: 2
+    - name: "Export"
+      url: "/animation/export/"
+      weight: 3
+    - name: "Resources"
+      url: "/animation/resources/"
+      weight: 4
+    - name: "index"
+      url: "/"
+      weight: 5
+  tinytex:
+    - name: "Home"
+      url: "/tinytex/"
+      weight: 1
+    - name: "FAQs"
+      url: "/tinytex/faq/"
+      weight: 2
+    - name: "R package"
+      url: "/tinytex/r/"
+      weight: 3
+    - name: "Hall of Pain"
+      url: "/tinytex/pain/"
+      weight: 4
+    - name: "中文文档"
+      url: "/tinytex/cn/"
+      weight: 5
+    - name: "index"
+      url: "/"
+      weight: 6  
+[Params]
+  description = "Personal website of DAN's; 老登纪"
+  schemas = []
+  page_schemas = []
+  seo = []
+  homeType = "simple"
+  navType = "simple"
+  headerType = "simple"
+  taxonomyHeaderType = "simple"
+  footerType = "bar_with_2_columns"
+
+[taxonomies]
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+

@@ -1,0 +1,196 @@
+﻿baseurl: "https://edwww.com"
+languageCode: "en-us"
+title: "老登纪"
+theme: "flexible-seo-hugo"
+googleAnalytics: ""
+disqusShortname: ""
+hasCJKLanguage: true
+enableEmoji: true
+preserveTaxonomyNames: true
+footnotereturnlinkcontents: "↩"
+enableRobotsTXT: true
+disableHugoGeneratorInject: true
+pluralizelisttitles: false
+
+permalinks:
+  cn: "/cn/:slug/"
+  en: "/en/:slug/"
+  post: "/post/:slug/"
+  note: "/note/:slug/"
+menu:
+  main:
+    - name: "About"
+      url: "/en/about/"
+      weight: 1
+    - name: "Blog"
+      url: "/en/"
+      weight: 2
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 3
+    - name: "纪录"
+      url: "/cn/"
+      weight: 4
+    - name: "Categories"
+      url: "/categories/"
+      weight: 5
+    - name: "Tags"
+      url: "/tags/"
+      weight: 6
+  en:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/en/about/"
+      weight: 2
+    - name: "Blog"
+      url: "/en/"
+      weight: 3
+    - name: "Vitae"
+      url: "/en/vitae/"
+      weight: 4
+    - name: "Categories"
+      url: "/categories/"
+      weight: 5
+    - name: "Tags"
+      url: "/tags/"
+      weight: 6
+    - name: "中文"
+      url: "/cn/"
+      weight: 7
+  cn:
+    - name: "首页"
+      url: "/"
+      weight: 1
+    - name: "关于"
+      url: "/cn/about/"
+      weight: 2
+    - name: "纪录"
+      url: "/cn/"
+      weight: 3
+    - name: "简历"
+      url: "/cn/vitae/"
+      weight: 4
+    - name: "菜谱"
+      url: "/cn/recipe/"
+      weight: 5
+    - name: "分类"
+      url: "/categories/"
+      weight: 6
+    - name: "标签"
+      url: "/tags/"
+      weight: 7
+    - name: "English"
+      url: "/en/"
+      weight: 8
+  knitr:
+    - name: "Home"
+      url: "/knitr/"
+      weight: 1
+    - name: "Options"
+      url: "/knitr/options/"
+      weight: 2
+    - name: "Hooks"
+      url: "/knitr/hooks/"
+      weight: 3
+    - name: "Examples"
+      url: "/knitr/demos/"
+      weight: 4
+    - name: "FAQ"
+      url: "/knitr/faq/"
+      weight: 5
+    - name: "index"
+      url: "/"
+      weight: 6
+  animation:
+    - name: "Home"
+      url: "/animation/"
+      weight: 1
+    - name: "Examples"
+      url: "/animation/examples/"
+      weight: 2
+    - name: "Export"
+      url: "/animation/export/"
+      weight: 3
+    - name: "Resources"
+      url: "/animation/resources/"
+      weight: 4
+    - name: "index"
+      url: "/"
+      weight: 5
+  tinytex:
+    - name: "Home"
+      url: "/tinytex/"
+      weight: 1
+    - name: "FAQs"
+      url: "/tinytex/faq/"
+      weight: 2
+    - name: "R package"
+      url: "/tinytex/r/"
+      weight: 3
+    - name: "Hall of Pain"
+      url: "/tinytex/pain/"
+      weight: 4
+    - name: "中文文档"
+      url: "/tinytex/cn/"
+      weight: 5
+    - name: "index"
+      url: "/"
+      weight: 6
+
+params:
+  schemas: []
+  page_schemas: []
+  seo: []
+  homeType: "simple"
+  navType: "simple"
+  headerType: "simple"
+  taxonomyHeaderType: "simple"
+  footerType: "bar_with_2_columns"
+  description: "Personal website of DAN's; 小登纪"
+  footer: "[津ICP备19011517号-1号]( http://www.beian.miit.gov.cn)&copy; [小登纪](/) 2019-2024 [版权声明](/copyright)"
+  disqusURL: ""
+ 
+  #githubContentURL: "https://github.com/rbind/yihui/edit/master/content/"
+  githubContentURL: "https://github.com/endg/bou.xyz/edit/master/content/"
+
+  # options for highlight.js (version, additional languages, and theme)
+  highlightjsVersion: "9.12.0"
+  highlightjsCDN: "//cdn.bootcss.com"
+  highlightjsLang: ["r", "yaml", "tex"]
+  highlightjsTheme: "github"
+
+  logo:
+    en:
+      img: "/images/logo.png"
+      url: "/"
+      alt: "Dan"
+      tag: "Dan's Note"
+    knitr:
+      img: "/knitr/images/knit-logo.png"
+      url: "/knitr/"
+      alt: "knitr logo"
+      tag: "knitr: elegant, flexible, and fast dynamic report generation with R"
+    tinytex:
+      img: "/images/logo-tinytex.png"
+      url: "/tinytex/"
+      alt: "tinytex logo"
+      tag: "TinyTeX: A lightweight and easy-to-maintain LaTeX distribution"
+
+  author:
+    en: "Dan"
+    cn: "登"
+    animation: "Dan & ying"
+
+  lang:
+    edit:
+      cn: "编辑"
+    license:
+      cn: "版权"
+    subscribe:
+      cn: "RSS"
+
+blackfriday:
+    extensionsmask: ["noIntraEmphasis"]
+    fractions: false
